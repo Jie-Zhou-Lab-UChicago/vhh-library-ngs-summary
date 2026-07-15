@@ -1,0 +1,2 @@
+sample,in_unique,in_reads,kept_unique,kept_reads,cdr_unique,drop_N,drop_stop,drop_lowqual
+demo,7,312,4,300,2,1,1,1

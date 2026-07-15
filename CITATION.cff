@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated manuscript."
+title: "Harnessing Endocytosis with Viral Display to Select Highly Developable, Internalizing Antibodies for Precision Therapy and Delivery"
+authors:
+  - {family-names: "Zou",      given-names: "Mengbing", affiliation: "University of Chicago"}
+  - {family-names: "Qian",     given-names: "Baiyan",  affiliation: "University of Chicago"}
+  - {family-names: "Zhu",      given-names: "Yufan",   affiliation: "University of Chicago"}
+  - {family-names: "Huo",      given-names: "Jenny",   affiliation: "University of Chicago"}
+  - {family-names: "Ren",      given-names: "Keyuan",  affiliation: "University of Chicago"}
+  - {family-names: "Fu",       given-names: "Rui",     affiliation: "University of Chicago"}
+  - {family-names: "Jin",      given-names: "Xiaokang", affiliation: "Northwestern University"}
+  - {family-names: "Zhang",    given-names: "Xiaoyu",  affiliation: "Northwestern University"}
+  - {family-names: "Wells",    given-names: "James A.", affiliation: "UC San Francisco"}
+  - {family-names: "Krishnan", given-names: "Yamuna",  affiliation: "University of Chicago"}
+  - {family-names: "Tang",     given-names: "Weixin",  affiliation: "University of Chicago"}
+  - {family-names: "Zhou",     given-names: "Jie",     affiliation: "University of Chicago", email: "jiezhou6@uchicago.edu"}
+version: 1.0.0
+date-released: 2026-07-15
+license: MIT
+keywords: [VHH, nanobody, lentiviral display, library selection, NGS, deep sequencing, CDR, antibody repertoire, internalizing antibody]
