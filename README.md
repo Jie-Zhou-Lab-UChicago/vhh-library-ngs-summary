@@ -1,7 +1,7 @@
 # Zhou Lab — VHH Library Selection NGS Data Summary
 
 Analysis code and derived data summaries for deep-sequenced VHH (single-domain antibody /
-nanobody) libraries from lentiviral-display selections.
+nanobody) libraries from phage, yeast, viral and mammalian selections.
 
 Associated manuscript:
 
